@@ -19,7 +19,7 @@ A SUSTech beamer template. (Support Chinese).
   - ![P1](./figs/P1.png)
 
 - 官方
-  - ![P2](/Users/zhangshu/Documents/github/SUSTech-Beamer-Template/figs/P2.png)
+  - ![P2](./figs/P2.png)
 
 
 
@@ -31,11 +31,11 @@ A SUSTech beamer template. (Support Chinese).
 
 ## [效果预览](./slide.pdf) 
 
-![P3](/Users/zhangshu/Documents/github/SUSTech-Beamer-Template/figs/P3.png)
+![P3](./figs/P3.png)
 
 
 
-![P4](/Users/zhangshu/Documents/github/SUSTech-Beamer-Template/figs/P4.png)
+![P4](./figs/P4.png)
 
 
 
